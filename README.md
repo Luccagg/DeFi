@@ -1,2 +1,2 @@
-# DeFi
-Decentralized Finance
+# Decentralized Finance
+
